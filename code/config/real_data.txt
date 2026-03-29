@@ -1,0 +1,37 @@
+expname = real_data
+basedir = exp
+datadir = data/real_data
+dataset_type = real_event
+
+factor = 1
+llffhold = 0
+seed = 2024
+N_rand = 1024
+N_samples = 64
+N_importance = 128
+
+use_viewdirs = True
+raw_noise_std = 1e0
+precrop_iters = 500
+precrop_frac = 0.5
+
+i_testset = 2000
+i_video = 50000
+i_weights = 5000
+i_print = 10
+i_img = 100
+
+no_batching = False
+render_out_path='results'
+max_exp = 0.125
+min_exp = 0.125
+fixed_value = 0.5
+random_seed = 1
+no_ndc = True
+near_depth = 4.0
+render_size = 40
+select_exps = 0
+split_RGB = False
+
+event_weight = 1
+image_weight = 1
