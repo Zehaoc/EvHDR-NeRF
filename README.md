@@ -1,6 +1,6 @@
 # EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events
 
-[EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events](https://zehaoc.github.io/EvHDR-NeRF/).
+[EvHDR-NeRF: Building High Dynamic Range Radiance Fields with Single Exposure Images and Events](https://zehaoc.github.io/EvHDR-NeRF/)
 
 If you find Event-LE useful for your work please cite:
 ```
