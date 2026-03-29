@@ -1,2 +1,5 @@
 .DS_store
 .idea
+
+# Large demo assets (keep local only; not tracked in git)
+code/demo_data/
